@@ -399,8 +399,8 @@
     {
       "name": "the-zone",
       "category": "collaboration",
-      "title": "Respect the zone\n\n",
-      "back": "<p>&lsquo;The zone&rsquo; is a mode of consciousness that is associated with higher capabilities. When in the zone a developer is more productive.</p>\n\n<p>When a developer is in the zone, avoid disruptions.</p>\n"
+      "title": "Respectez &lsquo;la zone&rsquo;\n\n",
+      "back": "<p>&lsquo;La zone&rsquo; est un mode de conscience qui est associée à des capacités plus élevées. Quand les développeurs sont dans la zone, il sont plus productifs.</p>\n\n<p>Quand un développeur est dans la zone, évitez de le perturber.</p>\n"
     },
     {
       "name": "thirty-minute-methods",
