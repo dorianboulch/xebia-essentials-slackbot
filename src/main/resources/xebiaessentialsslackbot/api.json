@@ -417,8 +417,8 @@
     {
       "name": "three-strikes",
       "category": "craftsmanship",
-      "title": "Three strikes and you automate\n\n",
-      "back": "<ul>\n<li>The first time you do something, you just do it manually</li>\n<li>The second time you do something similar, you wince at the repetition, but you do it anyway</li>\n<li>The third time you do something similar, you automate</li>\n</ul>\n\n"
+      "title": "Trois fois et vous automatisez\n\n",
+      "back": "<ul>\n<li>La première fois que vous faites quelque chose, faites le manuellement</li>\n<li>La deuxième fois, faites quelque chose de similaire, vous serez embêté par la répétition, mais faites le malgré tout</li>\n<li>La troisième fois, automatisez-le</li>\n</ul>\n\n"
     },
     {
       "name": "time-for-tech-debt",
