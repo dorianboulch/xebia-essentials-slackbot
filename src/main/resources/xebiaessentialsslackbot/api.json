@@ -375,8 +375,8 @@
     {
       "name": "test-code-one",
       "category": "testing",
-      "title": "Think of code and test as one\n\n",
-      "back": "<blockquote><p>When writing the code, think of the test.\nWhen writing the test, think of the code.\nWhen you think of code and test as one, testing is easy and code is beautiful.\n<div class=\"attribution\">Testivus</div></p></blockquote>\n"
+      "title": "Le code et les tests forment un tout\n\n",
+      "back": "<blockquote><p>Quand vous écrivez du code, pensez aux tests.\nEn écrivant le test, pensez au code.\nQuand vous pensez au code et aux tests en même temps, le fait de tester est facile et le code est beau.\n<div class=\"attribution\">Testivus</div></p></blockquote>\n"
     },
     {
       "name": "test-everything",
