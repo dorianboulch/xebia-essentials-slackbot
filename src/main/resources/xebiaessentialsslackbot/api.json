@@ -387,8 +387,8 @@
     {
       "name": "testing-is-shared-responsibility",
       "category": "testing",
-      "title": "Testing is a shared responsibility\n\n",
-      "back": "<p>Testing is not just the domain of the tester, but a core value for the\ndevelopment team. Every developer is a tester first.</p>\n"
+      "title": "Les tests sont une responsabilité partagée\n\n",
+      "back": "<p>Tester ne fait pas parti que du domaine du testeur, mais une valeur profonde de l'équipe de développement. Chaque développeur est avant tout un testeur.</p>\n"
     },
     {
       "name": "tests-are-specs",
