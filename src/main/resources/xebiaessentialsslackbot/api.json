@@ -381,8 +381,8 @@
     {
       "name": "test-everything",
       "category": "testing",
-      "title": "When you don't have time to test everything, you're building too much\n\n",
-      "back": "<p>When a story isn't tested, it simply is not ready for production.  This means\nthat focus should be on testing throughout the sprint, by the whole team.  No\nnew work should be picked up if there is still unfinished test work.</p>\n"
+      "title": "Quand vous n'avez pas le temps de tout tester, c'est que vous en faites trop\n\n",
+      "back": "<p>Quand une story n'est pas testée, cela implique que ce n'est pas prêt pour la production.  Cela signifie que les tests devrait être au centre de l'attention au cours du sprint par toute l'équipe.  Aucun nouveau travail devrait être choisi si il reste des tests à écrire.</p>\n"
     },
     {
       "name": "testing-is-shared-responsibility",
