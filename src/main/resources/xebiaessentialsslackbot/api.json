@@ -405,8 +405,8 @@
     {
       "name": "thirty-minute-methods",
       "category": "realisation",
-      "title": "Split functionality into small units\n\n",
-      "back": "<p>A function should be replaceable by one of your colleagues in less than thirty minutes.</p>\n"
+      "title": "Découpez les fonctionalités le plus unitairement possible\n\n",
+      "back": "<p>Une fonction devrait être remplacée par un de vos collègues en moins de trente minutes.</p>\n"
     },
     {
       "name": "thread-safe",
