@@ -423,8 +423,8 @@
     {
       "name": "time-for-tech-debt",
       "category": "craftsmanship",
-      "title": "Take time to tackle tech debt\n\n",
-      "back": "<p>Make your Product Owner understand why it is critical to fix technical debt. Explain that sustainable pace is the only way.</p>\n"
+      "title": "Prenez le temps de combler la dette technique\n\n",
+      "back": "<p>Faites comprendre à votre Product Owner en quoi il est critique de combler une dette technique. Expliquez que c'est le seul moyen d'accéder à la durabilité.</p>\n"
     },
     {
       "name": "timebox",
