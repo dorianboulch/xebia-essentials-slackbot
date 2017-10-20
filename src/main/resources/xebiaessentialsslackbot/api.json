@@ -435,8 +435,8 @@
     {
       "name": "two-minute-rule",
       "category": "craftsmanship",
-      "title": "If you are stuck developing for more than two minutes, you MUST ask somebody else\n\n",
-      "back": "<p>It's not professional to waste time by trying to solve something on your own that is quicker solved with help.</p>\n\n<p>You know you're stuck when you can't think of new terms to type into Google.</p>\n"
+      "title": "Si vous êtes bloqué quand vous développez pendant plus de deux minutes, vous DEVEZ en parler avec quelqu'un d'autre\n\n",
+      "back": "<p>Ce n'est pas professionnel de perdre du temps à essayer de résoudre un problème par vous même qui serait plus rapide à résoudre à l'aide de quelqu'un.</p>\n\n<p>Vous savez que vous êtes bloqué quand vous ne savez plus quoi tapper dans Google.</p>\n"
     },
     {
       "name": "what-you-measure",
