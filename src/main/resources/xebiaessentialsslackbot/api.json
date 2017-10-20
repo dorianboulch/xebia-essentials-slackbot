@@ -441,8 +441,8 @@
     {
       "name": "what-you-measure",
       "category": "collaboration",
-      "title": "You get what you measure\n\n",
-      "back": "<p>Metrics are useful, but beware of tunnel vision. If you focus exclusively on any specific quality attributes (like code coverage), other attributes may suffer.</p>\n\n<p>This effect is magnified when the carrot or the stick is involved, such as a target code coverage ordained by management.</p>\n"
+      "title": "Vous obtenez ce que vous mesurez\n\n",
+      "back": "<p>Les métriques sont utiles, mais attention à ne pas s'enfermer sur sa propre vision. Si vous vous focalisez exclusivement sur certains critères de qualité (comme la couverture de code), les autres critères peuvent en patir.</p>\n\n<p>Cet effet peut être amplifié quand la carotte et le bâton sont impliqués, comme quand la direction impose un pourcentage de code coverage par exemple.</p>\n"
     }
   ],
   "categories": [
