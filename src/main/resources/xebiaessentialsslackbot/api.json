@@ -411,8 +411,8 @@
     {
       "name": "thread-safe",
       "category": "realisation",
-      "title": "Aim for thread safety\n\n",
-      "back": "<p>In order of decreasing safety:</p>\n\n<ul>\n<li>Stateless services</li>\n<li>Immutable shared state</li>\n<li>Encapsulated locks</li>\n<li>Not thread safe</li>\n</ul>\n\n"
+      "title": "Visez le Thread-Safe\n\n",
+      "back": "<p>Dans l'ordre décroissant de la sûreté:</p>\n\n<ul>\n<li>Les services Stateless</li>\n<li>Etats partagés immutables</li>\n<li>Locks encapsulés</li>\n<li>Non thread safe</li>\n</ul>\n\n"
     },
     {
       "name": "three-strikes",
