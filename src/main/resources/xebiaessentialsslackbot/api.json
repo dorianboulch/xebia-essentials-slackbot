@@ -393,8 +393,8 @@
     {
       "name": "tests-are-specs",
       "category": "testing",
-      "title": "Tests are Specifications\n\n",
-      "back": "<p>Don't test an implementation, test its conformance to a required behaviour.\nTests written in this way become executable specifications, stories and\nexamples. They document what the code is intended to do, not cast in cement how\nit does so.</p>\n"
+      "title": "Les tests sont des Specifications\n\n",
+      "back": "<p>Ne testez pas une implémentation, testez que c'est conforme à un comportement.\nLes tests écrits de cette façon deviennent des specs exécutables, des stories et des examples. Ils documentent ce que le code est supposé faire, ils ne figent pas dans le ciment comment ils le font.</p>\n"
     },
     {
       "name": "the-zone",
