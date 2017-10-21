@@ -45,8 +45,8 @@
     {
       "name": "build-it-run-it",
       "category": "collaboration",
-      "title": "You build it, you run it!\n\n",
-      "back": "<p>The development team is responsible for the software in production.</p>\n\n<blockquote><p>The best way to completely automate operations is to have to developers be\nresponsible for running the software they develop. [...] There is no separate\noperations department at Amazon: you build it; you run it.\n<div class=\"attribution\">Werner Vogels</div></p></blockquote>\n"
+      "title": "Vous le buildez, vous l'exécutez !\n\n",
+      "back": "<p>L'équipe de développement est responsable de l'application en production.</p>\n\n<blockquote><p>La meilleure façon de complétement automatiser les opérations est que les développeurs soient responsable de l'éxecution de l'application qu'ils développent. [...] Il n'y a pas de séparation en départements opérationnels chez Amazon: vous le buildez; vous l'éxecutez.\n<div class=\"attribution\">Werner Vogels</div></p></blockquote>\n"
     },
     {
       "name": "clean-build",
