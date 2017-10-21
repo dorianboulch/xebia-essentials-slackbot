@@ -57,8 +57,8 @@
     {
       "name": "clean-logs",
       "category": "testing",
-      "title": "Keep your logs clean\n\n",
-      "back": "<p>Log everything you need, but nothing more:</p>\n\n<ul>\n<li>Log at the right level</li>\n<li>Log every message once</li>\n<li>Categorize if needed</li>\n<li>Throw meaningful exceptions</li>\n<li>Don't cry wolf</li>\n</ul>\n\n"
+      "title": "Gardez vos logs propre\n\n",
+      "back": "<p>Logguez tout ce dont vous avez besoin, mais rien de plus:</p>\n\n<ul>\n<li>Logguez au bon niveau</li>\n<li>Logguez chaque message une seule fois</li>\n<li>Categoriser au besoin</li>\n<li>Lancez des exceptions porteuses de sens</li>\n<li>Ne criez pas au loup</li>\n</ul>\n\n"
     },
     {
       "name": "code-review",
