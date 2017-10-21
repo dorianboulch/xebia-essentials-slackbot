@@ -9,8 +9,8 @@
     {
       "name": "alone-time",
       "category": "collaboration",
-      "title": "Alone time\n\n",
-      "back": "<p>For some situations pair programming is not effective. Be prepared to allow yourself and your team members to have some time alone.</p>\n"
+      "title": "Temps seul\n\n",
+      "back": "<p>Dans certain cas, le pair programming n'est pas efficace. Soyez prêt à vous autoriser ainsi qu'aux membres de votre équipe du temps seul.</p>\n"
     },
     {
       "name": "apis-are-forever",
