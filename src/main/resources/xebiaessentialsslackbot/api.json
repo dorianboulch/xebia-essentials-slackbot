@@ -27,8 +27,8 @@
     {
       "name": "automate-everything",
       "category": "realisation",
-      "title": "Automate the entire release and deployment process\n\n",
-      "back": "<p>The release and deployment process should be fast, reliable and repeatable several times a day.</p>\n"
+      "title": "Automatisez complétement le processus de livraison et de deploiement\n\n",
+      "back": "<p>Le processus de livraison et de déploiement devrait être rapide, fiable and répétable plusieurs fois par jour.</p>\n"
     },
     {
       "name": "boy-scout-rule",
