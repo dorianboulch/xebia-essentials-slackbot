@@ -75,8 +75,8 @@
     {
       "name": "composition-over-inheritance",
       "category": "realisation",
-      "title": "Favor composition over inheritance\n\n",
-      "back": "<p>Also known as the &lsquo;composite reuse principle&rsquo;. Favor composition\nover inheritance to achieve polymorphism.</p>\n"
+      "title": "Privilégiez la composition à l'héritage\n\n",
+      "back": "<p>Aussi connu comme le &lsquo;principe de réutilisation composite&rsquo;. Privilégiez la composition à l'héritage pour faire du polymorphisme.</p>\n"
     },
     {
       "name": "context-over-habit",
