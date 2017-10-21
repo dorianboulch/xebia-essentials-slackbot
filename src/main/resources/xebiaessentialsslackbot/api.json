@@ -21,8 +21,8 @@
     {
       "name": "assertions",
       "category": "realisation",
-      "title": "Assert against improper behaviour\n\n",
-      "back": "<blockquote><p>If it can't happen, use assertions to assure it won't.\n<div class=\"attribution\">Andrew Hunt, David Thomas</div></p></blockquote>\n"
+      "title": "Assurez-vous contre les comportements inappropriés\n\n",
+      "back": "<blockquote><p>Si ça ne peut pas arriver, utilisez des assertions pour vous assurez que ça n'arrivera pas.\n<div class=\"attribution\">Andrew Hunt, David Thomas</div></p></blockquote>\n"
     },
     {
       "name": "automate-everything",
