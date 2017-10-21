@@ -15,8 +15,8 @@
     {
       "name": "apis-are-forever",
       "category": "realisation",
-      "title": "APIs, like diamonds, are forever\n\n",
-      "back": "<p>So craft them carefully:</p>\n\n<blockquote><ul>\n<li>APIs should be self-documenting</li>\n<li>Obey the principle of least astonishment</li>\n<li>Use consistent parameter ordering across methods</li>\n<li>APIs should be easy to use, and hard to misuse\n<div class=\"attribution\">Joshua Bloch</div></li>\n</ul>\n</blockquote>\n"
+      "title": "Les APIs, comme les diamants, sont éternelles\n\n",
+      "back": "<p>Par conséquent développez les avec attention:</p>\n\n<blockquote><ul>\n<li>Les APIs devraient être elle même documentées</li>\n<li>Suivez le principe de l'étonnement minimal</li>\n<li>Utilisez un ordre de paramètres constant à travers les méthodes</li>\n<li>Les APIs devraient être faciles à utiliser, et difficiles à mal utiliser\n<div class=\"attribution\">Joshua Bloch</div></li>\n</ul>\n</blockquote>\n"
     },
     {
       "name": "assertions",
