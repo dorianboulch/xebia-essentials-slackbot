@@ -429,8 +429,8 @@
     {
       "name": "timebox",
       "category": "collaboration",
-      "title": "Limiter dans le temps l'inconnu\n\n",
-      "back": "<ul>\n<li>Limiter dans le temps (Timebox) une Story ou une Task qui n'a pas pu être estimée durant le planning.</li>\n<li>Communiquer les résultats au Product Owner / Scrum Master pour avoir des estimations précises.</li>\n<li>Vous devez rester dans les limites de temps de cette Timebox.</li>\n</ul>\n\n"
+      "title": "Limitez dans le temps l'inconnu\n\n",
+      "back": "<ul>\n<li>Limitez dans le temps (Timebox) une Story ou une Task qui n'a pas pu être estimée durant le planning.</li>\n<li>Communiquer les résultats au Product Owner / Scrum Master pour avoir des estimations précises.</li>\n<li>Vous devez rester dans les limites de temps de cette Timebox.</li>\n</ul>\n\n"
     },
     {
       "name": "two-minute-rule",
