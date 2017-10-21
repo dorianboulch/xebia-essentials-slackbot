@@ -63,8 +63,8 @@
     {
       "name": "code-review",
       "category": "collaboration",
-      "title": "Review code\n\n",
-      "back": "<p>The primary goal of code review is to increase its quality. Can be used as an\nadditional safety net alongside pair programming.</p>\n\n<p>It is also a good way to share knowledge and pick up some new tricks.</p>\n"
+      "title": "Revue de code\n\n",
+      "back": "<p>Le but premier d'une revue de code est d'augmenter sa qualité. Elle peut être utilisée comme \n un filet de sécurité additionel aux côtés de pair programming.</p>\n\n<p>C'est aussi un bon moyen de partager la connaissance et d'apprendre de nouvelles astuces.</p>\n"
     },
     {
       "name": "comment-with-care",
