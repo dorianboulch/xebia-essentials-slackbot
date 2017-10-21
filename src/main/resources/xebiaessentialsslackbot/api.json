@@ -33,8 +33,8 @@
     {
       "name": "boy-scout-rule",
       "category": "realisation",
-      "title": "Leave the campground cleaner than you found it\n\n",
-      "back": "<p>Also known as the Boy Scout Rule, after the Boy Scouts of America. Applied to\nprogramming: Always check in code in a cleaner state than when you checked it\nout.</p>\n"
+      "title": "Laissez le camp plus propre que vous ne l'avez trouvé\n\n",
+      "back": "<p>Aussi connu comme  la régle du boy-scout. Appliqué à\n la programmation: Toujours vérifier que le code est maintenant plus propre que quand vous l'avez chargé.</p>\n"
     },
     {
       "name": "brutal-transparency",
