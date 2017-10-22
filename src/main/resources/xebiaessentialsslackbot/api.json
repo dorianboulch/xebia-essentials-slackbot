@@ -99,8 +99,8 @@
     {
       "name": "definition-of-ready",
       "category": "collaboration",
-      "title": "Work on stories when they're ready\n\n",
-      "back": "<p>Have a Definition of READY to judge whether a user story is fit to go into a sprint.</p>\n\n<ul>\n<li>Do the team members understand the story?</li>\n<li>Is the story sized correctly?</li>\n<li>Have the acceptance criteria been defined?</li>\n<li>Are the external dependencies in place?</li>\n<li>How will the demo look?</li>\n</ul>\n\n"
+      "title": "Travaillez sur les stories quand elles sont prêtes\n\n",
+      "back": "<p>Ayez une définition de READY pour juger si une user story est apte à aller dans un sprint.</p>\n\n<ul>\n<li>Est-ce que les membres de l'équipe comprennent la story ?</li>\n<li>Est-ce que la story est dimensionnée correctement ?</li>\n<li>Est-ce que les critères d'acceptation ont été définis ?</li>\n<li>Est-ce que les dépendances externes sont en place ?</li>\n<li>A quoi la démo ressemblera ?</li>\n</ul>\n\n"
     },
     {
       "name": "diagnose-before-cure",
