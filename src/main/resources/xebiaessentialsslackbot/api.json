@@ -117,8 +117,8 @@
     {
       "name": "done",
       "category": "collaboration",
-      "title": "It ain't over till it's done\n\n",
-      "back": "<p>Create a clear definition of done to have a firm agreement on whether a task is\nfinished or not.</p>\n"
+      "title": "Ce n'est pas fini jusqu'à ce que ce soit fait\n\n",
+      "back": "<p>Créez une définition claire de DONE pour avoir un accord ferme sur le fait qu'une tâche soit terminée ou non.</p>\n"
     },
     {
       "name": "dry-principle",
