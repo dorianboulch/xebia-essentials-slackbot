@@ -105,8 +105,8 @@
     {
       "name": "diagnose-before-cure",
       "category": "craftsmanship",
-      "title": "Diagnose before cure\n\n",
-      "back": "<p>Measure first, make an isolated change, repeat until satisfied.</p>\n\n<p>Before you tune performance, first measure it. Then fix the worst bottleneck\nand measure again. Commonly you will find that bottlenecks shift, and you are\nmost effective when continuously measuring your progress.</p>\n"
+      "title": "Diagnostiquez avant de guérir\n\n",
+      "back": "<p>Mesurez en premier, Apportez un changement isolé, recommencez jusqu'à satisfaction.</p>\n\n<p>Avant d'optimiser la performance, mesurez là. Puis corrigez le pire goulot d'étranglement\net mesurez à nouveau. Généralement, vous constaterez que les goulets d'étranglement se déplacent, et que vous êtes plus efficace lorsque vous mesurez en permanence vos progrès.</p>\n"
     },
     {
       "name": "done-is-live",
