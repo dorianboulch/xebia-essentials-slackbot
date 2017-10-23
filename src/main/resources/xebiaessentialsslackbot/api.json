@@ -135,8 +135,8 @@
     {
       "name": "exploratory-testing",
       "category": "testing",
-      "title": "Make room for exploratory testing\n\n",
-      "back": "<p>Following a test script means you're consistent, but predictable.  Exploratory\ntesting reveals the things you hadn't thought to script. Be curious, go outside\nthe beaten path.</p>\n"
+      "title": "Faites de la place pour des tests exploratoires\n\n",
+      "back": "<p>Suivre un script de test signifie que vous êtes cohérent, mais prévisible. Les tests exploratoires révèlent les choses que vous n'aviez pas pensé à écrire. Soyez curieux, sortez des sentiers battus.</p>\n"
     },
     {
       "name": "fail-fast",
