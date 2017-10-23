@@ -129,8 +129,8 @@
     {
       "name": "eliminate-waste",
       "category": "collaboration",
-      "title": "Eliminate waste\n\n",
-      "back": "<p>Sources of waste in software development include:</p>\n\n<ul>\n<li>Partially done work</li>\n<li>Extra features</li>\n<li>Relearning</li>\n<li>Task switching</li>\n<li>Hand-offs</li>\n<li>Delays</li>\n<li>Defects</li>\n</ul>\n\n"
+      "title": "Éliminez les déchets\n\n",
+      "back": "<p>Les sources de déchets en développement logiciel incluent : </p>\n\n<ul>\n<li>Le travail partiellement fait</li>\n<li>Les fonctionnalités supplémentaires</li>\n<li>Le ré-apprentissage</li>\n<li>Le changement de tâche</li>\n<li>Les transferts</li>\n<li>Les retards</li>\n<li>Les défauts</li>\n</ul>\n\n"
     },
     {
       "name": "exploratory-testing",
