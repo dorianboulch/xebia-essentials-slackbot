@@ -123,8 +123,8 @@
     {
       "name": "dry-principle",
       "category": "craftsmanship",
-      "title": "Don't Repeat Yourself\n\n",
-      "back": "<blockquote><p>Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.\n<div class=\"attribution\">Andy Hunt and Dave Thomas</div></p></blockquote>\n"
+      "title": "Ne vous répétez pas\n\n",
+      "back": "<blockquote><p>Chaque élément de connaissance doit avoir une représentation unique, non ambiguë, faisant autorité dans un système.\n<div class=\"attribution\">Andy Hunt and Dave Thomas</div></p></blockquote>\n"
     },
     {
       "name": "eliminate-waste",
