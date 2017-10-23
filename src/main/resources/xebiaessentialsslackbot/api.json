@@ -141,8 +141,8 @@
     {
       "name": "fail-fast",
       "category": "testing",
-      "title": "Fail fast\n\n",
-      "back": "<p>Address risks early on in the project. Don't postpone difficult tasks, because\nthey provide you with an opportunity to learn. Tackle them head-on, and get it\nover with.</p>\n"
+      "title": "Échouez rapidement\n\n",
+      "back": "<p>Aborder les risques dès le début du projet. Ne remettez pas les tâches difficiles à plus tard, car elles vous donnent l'occasion d'apprendre. Affrontez-les et finissez-en.</p>\n"
     },
     {
       "name": "fallacies-distributed-computing",
