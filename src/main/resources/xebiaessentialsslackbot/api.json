@@ -112,7 +112,7 @@
       "name": "done-is-live",
       "category": "collaboration",
       "title": "Done = Live!\n\n",
-      "back": "<p>The work of the development team is only done, when the feature is live in production.</p>\n"
+      "back": "<p>Le travail de l'équipe de développement est uniquement terminé, quand la feature est en production.</p>\n"
     },
     {
       "name": "done",
